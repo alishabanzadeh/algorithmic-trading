@@ -1,2 +1,0 @@
-# algorithmic-trading
-algorithmic-trading
